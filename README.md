@@ -18,6 +18,8 @@ the following resources are a great place to start:
 
 ## Folder structure
 
+## MLZ Test 2
+
 We support a collection of templates, organized in this way:
 
 - the root folder contains templates in common use, to help people get started
