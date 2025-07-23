@@ -1,3 +1,5 @@
+# Test Information
+
 # A collection of `.gitignore` templates
 
 This is GitHub’s collection of [`.gitignore`][man] file templates.
